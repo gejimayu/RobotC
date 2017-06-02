@@ -8,6 +8,6 @@ You can watch our video about this program in here <br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AA-6exDc7s0/0.jpg)](https://www.youtube.com/watch?v=AA-6exDc7s0)
 
 Credit :<br>
-Gianfranco Fertino Hwandiano (me)<br>
+Gianfranco Fertino Hwandiano <br>
 Yohanes Jhouma<br>
 Devin Alvaro<br>
