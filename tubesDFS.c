@@ -1,7 +1,7 @@
 #pragma config(StandardModel, "EV3_REMBOT")
 #pragma DebuggerWindows("EV3LCDScreen") // (documented for NXT but not for EV3).
 
-//----------------------ADT QUEUE--------------------------------------
+//----------------------ADT QUEUE-----------------
 
 #define Nil 0
 #define red 1
